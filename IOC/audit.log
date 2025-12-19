@@ -1,0 +1,20 @@
+{"timestamp": "2025-12-20T00:07:29.452917", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:07:29.455795", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:08:54.771652", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:08:54.784774", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:10:28.292856", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "check_insurance_eligibility", "args": {"patient_id": "pat_001"}}}
+{"timestamp": "2025-12-20T00:10:28.293844", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "check_insurance_eligibility", "args": {"patient_id": "pat_001"}}}
+{"timestamp": "2025-12-20T00:10:57.092711", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "search_patient", "args": {"name": "Ravi"}}}
+{"timestamp": "2025-12-20T00:10:57.094712", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "search_patient", "args": {"name": "Ravi"}}}
+{"timestamp": "2025-12-20T00:10:59.090045", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "find_available_slots", "args": {"department": "Cardiology"}}}
+{"timestamp": "2025-12-20T00:10:59.091037", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "find_available_slots", "args": {"department": "Cardiology", "doctor_id": null}}}
+{"timestamp": "2025-12-20T00:11:01.716827", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "book_appointment", "args": {"patient_id": "pat_001", "slot_id": "slot_1_9_doc_001"}}}
+{"timestamp": "2025-12-20T00:11:01.717824", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "book_appointment", "args": {"patient_id": "pat_001", "slot_id": "slot_1_9_doc_001"}}}
+{"timestamp": "2025-12-20T00:15:34.737853", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:15:34.768715", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:27:05.263701", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:27:05.265974", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:42:50.209692", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:42:50.211690", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:46:28.540954", "user": "system", "action_type": "AGENT_DECISION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
+{"timestamp": "2025-12-20T00:46:28.542951", "user": "system", "action_type": "TOOL_EXECUTION", "details": {"tool": "search_patient", "args": {"name": "Ravi Kumar"}}}
